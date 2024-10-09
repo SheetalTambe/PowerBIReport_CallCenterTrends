@@ -1,5 +1,5 @@
 # PowerBIReport_CallCenterTrends
-Forage-PwC Switzerland Power BI Job Simulation-Task 2  | Call Centre Trends (Visualizing customer and agent behavior)
+Forage-PwC Switzerland Power BI Job Simulation-Task 2  | Call Centre Trends
 The purpose of this analysis is to create an interactive dashboard in Power BI for Call Centre for visualising customer and agent behaviour which reflects all the relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 Possible KPIs include
 •	Overall customer satisfaction
